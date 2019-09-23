@@ -10,4 +10,4 @@ difference = first_number - second_number
 
 product = first_number * second_number
 
-quotient = second_number / "meow"
+quotient = second_number / first_number
